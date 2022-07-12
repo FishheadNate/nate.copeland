@@ -7,12 +7,12 @@ disqus:
 google-ID: 'G-VEDFVT1M9C'
 
 menu:
-- {name: 'Interesting Facts',  url: 'facts'}
-- {name: 'Learning Resources', url: 'resources'}
-- {name: 'Sample Posts',       url: 'sample-posts'}
-- {name: 'Documentation',      url: 'documentation'}
+- {name: 'Project Samples',  url: 'facts'}
+- {name: 'Recommendations', url: 'resources'}
 - {name: 'About',              url: 'about'}
-- {name: 'Contact',            url: 'contact'}
+#- {name: 'Sample Posts',       url: 'sample-posts'}
+#- {name: 'Documentation',      url: 'documentation'}
+#- {name: 'Contact',            url: 'contact'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
@@ -28,7 +28,7 @@ pagination:
   next_page: 'Newer'
   previous_page: 'Older'
 
-sharing_button_prompt: 'Feel free to share!'
+#sharing_button_prompt: 'Feel free to share!'
 
 related_posts: 'You may also enjoy...'
 
