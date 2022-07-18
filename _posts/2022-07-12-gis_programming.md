@@ -4,7 +4,7 @@ title: "GIS and Programming Notes"
 author: "Nathan Copeland"
 categories: resources
 tags: [documentation,sample]
-image: river.png
+image: zion.png
 ---
 
 Compilation of articles, books, courses, and repos I've found helpful over the years:
