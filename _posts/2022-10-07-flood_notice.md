@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Flood Notion iOS"
+title: "Flood Notice iOS"
 author: "Nathan Copeland"
 categories: samples
 tags: [sample]
-image: padus_v2_1.png
+image: flood_notice.png
 ---
 
 ![Simulator Screen Recording - iPhone 14 Pro - 2022-10-06 at 14 30 40](https://user-images.githubusercontent.com/22895187/194402589-4bbc945a-f5f1-4570-becb-5f4135057580.gif)
